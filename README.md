@@ -1,12 +1,15 @@
 # Mistygram iOS & Android App
 
 Screen:
--[ ] Home
--[ ] Search
--[ ] Upload
+-[x] Home
+-[x] Search
+-[x] Upload
 -[ ] Notifications
--[ ] Profile
+-[x] Profile
 -[ ] Edit Profile
--[ ] Photo Detail
--[ ] Photo Comments
--[ ] Photo Likes
+-[] Photo Detail
+-[] Photo Comments
+-[x] Photo Likes
+
+
+expo: mistycoders/mistygram-app
