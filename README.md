@@ -1,4 +1,4 @@
-# Mistygram iOS & Android App
+# Hinstagram iOS & Android App
 
 Screen:
 -[x] Home
