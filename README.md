@@ -7,8 +7,8 @@
 - [x] Upload
 - [x] Profile
 - [x] Photo Likes
-- [] Notifications
-- [] Edit Profile
-- [] Photo Detail
-- [] Photo Comments
+- [ ] Notifications
+- [ ] Edit Profile
+- [ ] Photo Detail
+- [ ] Photo Comments
 
