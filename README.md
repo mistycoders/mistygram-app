@@ -1,15 +1,14 @@
-# Hinstagram iOS & Android App
+# PIE-instagram iOS & Android App
 
 ## Screen:
- --[x] Home
- --[x] Search
- --[x] Upload
- --[ ] Notifications
- --[x] Profile
- --[ ] Edit Profile
- --[] Photo Detail
- --[] Photo Comments
- --[x] Photo Likes
 
+- [x] Home
+- [x] Search
+- [x] Upload
+- [x] Profile
+- [x] Photo Likes
+- [] Notifications
+- [] Edit Profile
+- [] Photo Detail
+- [] Photo Comments
 
-expo: mistycoders/mistygram-app
